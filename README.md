@@ -6,7 +6,6 @@ A simple status bar button to invoke the built in VS Code command: `workbench.ac
 
 Adds a button to the status bar to invoke VS Code's built in command to run tasks.
 
-![Project Tasks Button](images/ProjectTasksButton.png)
 ![Project Tasks In Action](images/ProjectTasksInAction.gif)
 
 ## Extension Settings
